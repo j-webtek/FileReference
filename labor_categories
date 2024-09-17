@@ -1,0 +1,720 @@
+{
+    "labor_categories": [
+      {
+        "name": "Business Administration",
+        "description": "Oversees business operations, administrative tasks, and strategic planning to ensure organizational efficiency and growth.",
+        "requirements": [
+          "Bachelor's degree in Business Administration or related field",
+          "5+ years of experience in business management or administration",
+          "Strong organizational and leadership skills",
+          "Proficiency in project management methodologies",
+          "Advanced knowledge of Microsoft Office Suite",
+          "Experience with ERP systems and business analytics tools"
+        ],
+        "skills": [
+          "Strategic Planning",
+          "Financial Management",
+          "Operations Management",
+          "Team Leadership",
+          "Business Process Improvement",
+          "Risk Management",
+          "Contract Negotiation",
+          "Vendor Management"
+        ],
+        "related_billets": [
+          "Contracts Administration",
+          "Financial Analysis",
+          "Operations Manager",
+          "Project Manager"
+        ],
+        "certifications": [
+          "Project Management Professional (PMP)",
+          "Certified Business Analysis Professional (CBAP)",
+          "Six Sigma Green Belt"
+        ],
+        "tools": [
+          "SAP",
+          "Salesforce",
+          "Microsoft Project",
+          "Tableau",
+          "QuickBooks"
+        ],
+        "salary_range": {
+          "min": 75000,
+          "max": 150000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Administrative Assistant",
+            "years_experience": "0-2",
+            "key_skills": ["Office management", "Scheduling", "Basic data entry"]
+          },
+          {
+            "level": 2,
+            "title": "Business Operations Analyst",
+            "years_experience": "2-5",
+            "key_skills": ["Process improvement", "Data analysis", "Project coordination"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Business Manager",
+            "years_experience": "5-10",
+            "key_skills": ["Strategic planning", "Team leadership", "Budget management"]
+          },
+          {
+            "level": 4,
+            "title": "Director of Business Operations",
+            "years_experience": "10+",
+            "key_skills": ["Organizational leadership", "Corporate strategy", "Executive decision-making"]
+          }
+        ]
+      },
+      {
+        "name": "Contracts Administration",
+        "description": "Manages the entire contract lifecycle, ensuring compliance, minimizing risks, and optimizing contract performance.",
+        "requirements": [
+          "Bachelor's degree in Business, Law, or related field",
+          "3+ years of experience in contract management",
+          "Knowledge of contract law and regulatory compliance",
+          "Strong negotiation and communication skills",
+          "Attention to detail and analytical thinking"
+        ],
+        "skills": [
+          "Contract Drafting and Review",
+          "Negotiation",
+          "Risk Assessment",
+          "Compliance Management",
+          "Vendor Management",
+          "Legal Research",
+          "Financial Analysis",
+          "Stakeholder Management"
+        ],
+        "related_billets": [
+          "Business Administration",
+          "Legal Counsel",
+          "Procurement Specialist",
+          "Compliance Officer"
+        ],
+        "certifications": [
+          "Certified Commercial Contract Manager (CCCM)",
+          "Certified Federal Contract Manager (CFCM)",
+          "Certified Professional Contract Manager (CPCM)"
+        ],
+        "tools": [
+          "Contract Management Software (e.g., Icertis, Coupa)",
+          "Microsoft Office Suite",
+          "ERP Systems",
+          "e-Signature platforms (e.g., DocuSign)"
+        ],
+        "salary_range": {
+          "min": 70000,
+          "max": 140000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Contract Specialist",
+            "years_experience": "0-2",
+            "key_skills": ["Contract drafting", "Documentation management", "Basic negotiation"]
+          },
+          {
+            "level": 2,
+            "title": "Contracts Administrator",
+            "years_experience": "2-5",
+            "key_skills": ["Contract review", "Compliance monitoring", "Vendor management"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Contracts Manager",
+            "years_experience": "5-10",
+            "key_skills": ["Complex negotiations", "Risk assessment", "Contract strategy development"]
+          },
+          {
+            "level": 4,
+            "title": "Director of Contract Operations",
+            "years_experience": "10+",
+            "key_skills": ["Contract policy creation", "Legal liaison", "High-level dispute resolution"]
+          }
+        ]
+      },
+      {
+        "name": "Cyber Security",
+        "description": "Protects computer systems, networks, and data from security breaches, implementing robust defense mechanisms and incident response protocols.",
+        "requirements": [
+          "Bachelor's degree in Computer Science, Information Technology, or related field",
+          "5+ years of experience in cybersecurity or related IT roles",
+          "In-depth knowledge of network security protocols and cybersecurity frameworks",
+          "Experience with penetration testing and vulnerability assessments",
+          "Familiarity with compliance standards (e.g., NIST, ISO 27001, HIPAA)",
+          "Strong analytical and problem-solving skills"
+        ],
+        "skills": [
+          "Network Security",
+          "Intrusion Detection and Prevention",
+          "Firewall Management",
+          "Encryption Technologies",
+          "Incident Response",
+          "Threat Intelligence",
+          "Security Information and Event Management (SIEM)",
+          "Cloud Security"
+        ],
+        "related_billets": [
+          "Information Security Analyst",
+          "Network Security Engineer",
+          "Security Operations Center (SOC) Analyst",
+          "Penetration Tester"
+        ],
+        "certifications": [
+          "Certified Information Systems Security Professional (CISSP)",
+          "Certified Ethical Hacker (CEH)",
+          "CompTIA Security+",
+          "GIAC Security Essentials (GSEC)"
+        ],
+        "tools": [
+          "Wireshark",
+          "Nmap",
+          "Metasploit",
+          "Splunk",
+          "Nessus",
+          "Burp Suite"
+        ],
+        "salary_range": {
+          "min": 85000,
+          "max": 160000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Junior Security Analyst",
+            "years_experience": "0-2",
+            "key_skills": ["Security monitoring", "Incident reporting", "Basic threat analysis"]
+          },
+          {
+            "level": 2,
+            "title": "Cyber Security Specialist",
+            "years_experience": "2-5",
+            "key_skills": ["Vulnerability assessment", "Security tool implementation", "Incident response"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Cyber Security Engineer",
+            "years_experience": "5-10",
+            "key_skills": ["Advanced threat hunting", "Security architecture design", "Team leadership"]
+          },
+          {
+            "level": 4,
+            "title": "Chief Information Security Officer (CISO)",
+            "years_experience": "10+",
+            "key_skills": ["Enterprise security strategy", "Risk management", "Board-level advisory"]
+          }
+        ]
+      },
+      {
+        "name": "Cyber Security Technical Analysis",
+        "description": "Conducts in-depth technical analysis of cyber threats, vulnerabilities, and security incidents to enhance an organization's defensive capabilities.",
+        "requirements": [
+          "Bachelor's degree in Computer Science, Cybersecurity, or related field",
+          "4+ years of experience in cyber security analysis",
+          "Strong understanding of operating systems, networking, and web technologies",
+          "Proficiency in scripting languages (e.g., Python, PowerShell)",
+          "Experience with malware analysis and reverse engineering",
+          "Knowledge of threat intelligence platforms and MITRE ATT&CK framework"
+        ],
+        "skills": [
+          "Malware Analysis",
+          "Threat Hunting",
+          "Vulnerability Assessment",
+          "Incident Analysis",
+          "Network Forensics",
+          "Reverse Engineering",
+          "Threat Modeling",
+          "Security Tool Development"
+        ],
+        "related_billets": [
+          "Cyber Security Analyst",
+          "Malware Researcher",
+          "Digital Forensics Specialist",
+          "Threat Intelligence Analyst"
+        ],
+        "certifications": [
+          "GIAC Reverse Engineering Malware (GREM)",
+          "Certified Information Systems Security Professional (CISSP)",
+          "EC-Council Certified Security Analyst (ECSA)",
+          "SANS FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics"
+        ],
+        "tools": [
+          "IDA Pro",
+          "OllyDbg",
+          "Ghidra",
+          "Volatility",
+          "Yara",
+          "Cuckoo Sandbox"
+        ],
+        "salary_range": {
+          "min": 90000,
+          "max": 170000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Junior Cyber Security Analyst",
+            "years_experience": "0-2",
+            "key_skills": ["Basic malware analysis", "Log analysis", "Security tool usage"]
+          },
+          {
+            "level": 2,
+            "title": "Cyber Security Technical Analyst",
+            "years_experience": "2-5",
+            "key_skills": ["Advanced malware analysis", "Threat intelligence", "Scripting for security"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Security Researcher",
+            "years_experience": "5-10",
+            "key_skills": ["Reverse engineering", "Zero-day vulnerability discovery", "Threat modeling"]
+          },
+          {
+            "level": 4,
+            "title": "Principal Cyber Security Architect",
+            "years_experience": "10+",
+            "key_skills": ["Advanced persistent threat (APT) analysis", "Security research leadership", "Defensive strategy development"]
+          }
+        ]
+      },
+      {
+        "name": "Data Analysis",
+        "description": "Examines large datasets to uncover patterns, draw conclusions, and support decision-making through various analytical methods.",
+        "requirements": [
+          "Bachelor's degree in Statistics, Mathematics, Computer Science, or related field",
+          "3+ years of experience in data analysis or related field",
+          "Proficiency in statistical analysis and data manipulation",
+          "Strong programming skills in Python, R, or SQL",
+          "Experience with data visualization tools",
+          "Excellent problem-solving and communication skills"
+        ],
+        "skills": [
+          "Statistical Analysis",
+          "Data Cleaning and Preprocessing",
+          "Data Visualization",
+          "Hypothesis Testing",
+          "Regression Analysis",
+          "A/B Testing",
+          "Dashboard Creation",
+          "ETL Processes"
+        ],
+        "related_billets": [
+          "Business Intelligence Analyst",
+          "Data Scientist",
+          "Market Research Analyst",
+          "Operations Analyst"
+        ],
+        "certifications": [
+          "Certified Analytics Professional (CAP)",
+          "SAS Certified Data Scientist",
+          "Microsoft Certified: Data Analyst Associate",
+          "Google Data Analytics Professional Certificate"
+        ],
+        "tools": [
+          "Python",
+          "R",
+          "SQL",
+          "Tableau",
+          "Power BI",
+          "Excel",
+          "SAS",
+          "SPSS"
+        ],
+        "salary_range": {
+          "min": 65000,
+          "max": 130000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Junior Data Analyst",
+            "years_experience": "0-2",
+            "key_skills": ["Data cleaning", "Basic statistical analysis", "Data visualization"]
+          },
+          {
+            "level": 2,
+            "title": "Data Analyst",
+            "years_experience": "2-5",
+            "key_skills": ["Advanced SQL", "A/B testing", "Dashboard creation"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Data Analyst",
+            "years_experience": "5-10",
+            "key_skills": ["Predictive modeling", "Machine learning basics", "Cross-functional leadership"]
+          },
+          {
+            "level": 4,
+            "title": "Director of Analytics",
+            "years_experience": "10+",
+            "key_skills": ["Data strategy development", "Advanced statistical modeling", "C-level reporting"]
+          }
+        ]
+      },
+      {
+        "name": "Data Science",
+        "description": "Applies advanced analytics, statistical methods, and machine learning techniques to extract insights and value from complex data sets.",
+        "requirements": [
+          "Master's or PhD in Data Science, Statistics, Computer Science, or related field",
+          "3+ years of experience in data science or related analytical role",
+          "Strong programming skills in Python, R, or similar languages",
+          "Expertise in machine learning algorithms and statistical modeling",
+          "Experience with big data technologies and cloud computing platforms",
+          "Excellent communication skills to present findings to non-technical stakeholders"
+        ],
+        "skills": [
+          "Machine Learning",
+          "Statistical Analysis",
+          "Data Visualization",
+          "Predictive Modeling",
+          "Natural Language Processing",
+          "Big Data Analytics",
+          "A/B Testing",
+          "Deep Learning"
+        ],
+        "related_billets": [
+          "Machine Learning Engineer",
+          "Business Intelligence Analyst",
+          "Data Engineer",
+          "Quantitative Analyst"
+        ],
+        "certifications": [
+          "Certified Data Scientist (CDS)",
+          "Google Cloud Professional Data Engineer",
+          "IBM Data Science Professional Certificate",
+          "Microsoft Certified: Azure Data Scientist Associate"
+        ],
+        "tools": [
+          "Python",
+          "R",
+          "SQL",
+          "TensorFlow",
+          "PyTorch",
+          "Hadoop",
+          "Spark",
+          "Tableau"
+        ],
+        "salary_range": {
+          "min": 90000,
+          "max": 180000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Junior Data Scientist",
+            "years_experience": "0-2",
+            "key_skills": ["Basic machine learning", "Data preprocessing", "Statistical analysis"]
+          },
+          {
+            "level": 2,
+            "title": "Data Scientist",
+            "years_experience": "2-5",
+            "key_skills": ["Advanced machine learning", "Feature engineering", "Model deployment"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Data Scientist",
+            "years_experience": "5-10",
+            "key_skills": ["Deep learning", "Natural language processing", "Research leadership"]
+          },
+          {
+            "level": 4,
+            "title": "Principal Data Scientist",
+            "years_experience": "10+",
+            "key_skills": ["AI strategy development", "Novel algorithm design", "Cross-functional leadership"]
+          }
+        ]
+      },
+      {
+        "name": "Engineering (General)",
+        "description": "Applies scientific and mathematical principles to design, develop, and innovate products, systems, and processes across various industries.",
+        "requirements": [
+          "Bachelor's degree in Engineering (specific field may vary)",
+          "Professional Engineering (PE) license may be required",
+          "Strong analytical and problem-solving skills",
+          "Proficiency in CAD software and engineering tools",
+          "Knowledge of industry standards and regulations",
+          "Excellent project management skills"
+        ],
+        "skills": [
+          "Technical Design",
+          "Problem Solving",
+          "Project Management",
+          "Data Analysis",
+          "Quality Control",
+          "Risk Assessment",
+          "Systems Integration",
+          "Technical Documentation"
+        ],
+        "related_billets": [
+          "Mechanical Engineer",
+          "Electrical Engineer",
+          "Civil Engineer",
+          "Industrial Engineer"
+        ],
+        "certifications": [
+          "Professional Engineer (PE)",
+          "Certified Systems Engineering Professional (CSEP)",
+          "Project Management Professional (PMP)",
+          "Six Sigma Green Belt or Black Belt"
+        ],
+        "tools": [
+          "AutoCAD",
+          "SolidWorks",
+          "MATLAB",
+          "LabVIEW",
+          "Microsoft Project",
+          "Finite Element Analysis (FEA) software"
+        ],
+        "salary_range": {
+          "min": 70000,
+          "max": 150000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Engineering Technician",
+            "years_experience": "0-2",
+            "key_skills": ["CAD drafting", "Basic data analysis", "Technical support"]
+          },
+          {
+            "level": 2,
+            "title": "Engineer",
+            "years_experience": "2-5",
+            "key_skills": ["Design development", "Project coordination", "Technical problem-solving"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Engineer",
+            "years_experience": "5-10",
+            "key_skills": ["Advanced system design", "Project management", "Team leadership"]
+          },
+          {
+            "level": 4,
+            "title": "Principal Engineer",
+            "years_experience": "10+",
+            "key_skills": ["Technical strategy development", "Innovation leadership", "Cross-functional collaboration"]
+          }
+        ]
+      },
+      {
+        "name": "Executives",
+        "description": "Provides high-level leadership, sets organizational strategy, and oversees overall operations to achieve business objectives.",
+        "requirements": [
+          "Master's degree in Business Administration or related field (often preferred)",
+          "10+ years of progressive leadership experience",
+          "Strong strategic thinking and decision-making skills",
+          "Excellent communication and interpersonal abilities",
+          "Proven track record of driving business growth and managing P&L",
+          "In-depth industry knowledge and business acumen"
+        ],
+        "skills": [
+          "Strategic Leadership",
+          "Business Strategy Development",
+          "Financial Management",
+          "Organizational Development",
+          "Change Management",
+          "Stakeholder Management",
+          "Crisis Management",
+          "Corporate Governance"
+        ],
+        "related_billets": [
+          "Chief Executive Officer (CEO)",
+          "Chief Financial Officer (CFO)",
+          "Chief Operating Officer (COO)",
+          "Chief Technology Officer (CTO)"
+        ],
+        "certifications": [
+          "Certified Public Accountant (CPA)",
+          "Chartered Financial Analyst (CFA)",
+          "Certified Management Consultant (CMC)",
+          "Board Director Certification"
+        ],
+        "tools": [
+          "Enterprise Resource Planning (ERP) systems",
+          "Business Intelligence platforms",
+          "Performance Management software",
+          "Customer Relationship Management (CRM) systems"
+        ],
+        "salary_range": {
+          "min": 150000,
+          "max": 500000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Director",
+            "years_experience": "7-10",
+            "key_skills": ["Departmental leadership", "Strategic planning", "Budget management"]
+          },
+          {
+            "level": 2,
+            "title": "Vice President",
+            "years_experience": "10-15",
+            "key_skills": ["Cross-functional leadership", "Business development", "Operational optimization"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Vice President",
+            "years_experience": "15-20",
+            "key_skills": ["Corporate strategy", "M&A planning", "Executive decision-making"]
+          },
+          {
+            "level": 4,
+            "title": "C-Suite Executive",
+            "years_experience": "20+",
+            "key_skills": ["Visionary leadership", "Board management", "Corporate governance"]
+          }
+        ]
+      },
+      {
+        "name": "Financial Analysis",
+        "description": "Evaluates financial data, market trends, and business performance to support strategic decision-making and optimize financial outcomes.",
+        "requirements": [
+          "Bachelor's degree in Finance, Accounting, Economics, or related field",
+          "3+ years of experience in financial analysis or related role",
+          "Strong analytical and quantitative skills",
+          "Proficiency in financial modeling and forecasting",
+          "Knowledge of accounting principles and financial regulations",
+          "Excellent communication and presentation skills"
+        ],
+        "skills": [
+          "Financial Modeling",
+          "Budgeting and Forecasting",
+          "Variance Analysis",
+          "Risk Assessment",
+          "Data Visualization",
+          "Investment Analysis",
+          "Corporate Valuation",
+          "Financial Reporting"
+        ],
+        "related_billets": [
+          "Investment Analyst",
+          "Corporate Finance Analyst",
+          "FP&A Specialist",
+          "Business Analyst"
+        ],
+        "certifications": [
+          "Chartered Financial Analyst (CFA)",
+          "Certified Public Accountant (CPA)",
+          "Financial Risk Manager (FRM)",
+          "Certified Financial Planner (CFP)"
+        ],
+        "tools": [
+          "Excel",
+          "Bloomberg Terminal",
+          "SQL",
+          "Tableau",
+          "SAP",
+          "Hyperion"
+        ],
+        "salary_range": {
+          "min": 70000,
+          "max": 140000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Junior Financial Analyst",
+            "years_experience": "0-2",
+            "key_skills": ["Financial data collection", "Basic financial modeling", "Report preparation"]
+          },
+          {
+            "level": 2,
+            "title": "Financial Analyst",
+            "years_experience": "2-5",
+            "key_skills": ["Advanced financial modeling", "Variance analysis", "Financial forecasting"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Financial Analyst",
+            "years_experience": "5-10",
+            "key_skills": ["Strategic financial planning", "Investment analysis", "Team leadership"]
+          },
+          {
+            "level": 4,
+            "title": "Director of Financial Planning & Analysis",
+            "years_experience": "10+",
+            "key_skills": ["Corporate financial strategy", "M&A financial analysis", "Executive financial advisory"]
+          }
+        ]
+      },
+      {
+        "name": "Intelligence Analysis",
+        "description": "Collects, processes, and interprets data from various sources to provide actionable intelligence for decision-makers in government, military, or private sectors.",
+        "requirements": [
+          "Bachelor's degree in International Relations, Political Science, or related field",
+          "3+ years of experience in intelligence analysis or related field",
+          "Strong analytical and critical thinking skills",
+          "Knowledge of geopolitical issues and current events",
+          "Proficiency in data analysis and visualization tools",
+          "Security clearance (level depends on the position)"
+        ],
+        "skills": [
+          "Intelligence Collection",
+          "Data Analysis",
+          "Threat Assessment",
+          "Report Writing",
+          "Geopolitical Analysis",
+          "Source Evaluation",
+          "Pattern Recognition",
+          "Briefing and Presentation"
+        ],
+        "related_billets": [
+          "Counterintelligence Analyst",
+          "Cyber Threat Analyst",
+          "Open Source Intelligence (OSINT) Specialist",
+          "Geospatial Intelligence Analyst"
+        ],
+        "certifications": [
+          "Certified Intelligence Professional (CIP)",
+          "Certified in Homeland Security (CHS)",
+          "GIAC Cyber Threat Intelligence (GCTI)",
+          "Professional Certified Investigator (PCI)"
+        ],
+        "tools": [
+          "i2 Analyst's Notebook",
+          "Palantir",
+          "ArcGIS",
+          "SOCMINT tools",
+          "Maltego",
+          "IBM i2 Enterprise Insight Analysis"
+        ],
+        "salary_range": {
+          "min": 65000,
+          "max": 150000
+        },
+        "billets": [
+          {
+            "level": 1,
+            "title": "Intelligence Analyst Trainee",
+            "years_experience": "0-2",
+            "key_skills": ["Information gathering", "Basic report writing", "Data organization"]
+          },
+          {
+            "level": 2,
+            "title": "Intelligence Analyst",
+            "years_experience": "2-5",
+            "key_skills": ["Threat assessment", "Pattern recognition", "Source evaluation"]
+          },
+          {
+            "level": 3,
+            "title": "Senior Intelligence Analyst",
+            "years_experience": "5-10",
+            "key_skills": ["Advanced analytical techniques", "Interagency collaboration", "Mentoring"]
+          },
+          {
+            "level": 4,
+            "title": "Chief of Intelligence Analysis",
+            "years_experience": "10+",
+            "key_skills": ["Strategic intelligence planning", "High-level briefings", "Policy influence"]
+          }
+        ]
+      }
+    ]
+  }
